@@ -7,5 +7,6 @@
 - ## Crunchyroll Thumbnail Remover
   - ### a chrome extension that removes thumbnails on Crunchyroll
   - ### avoid getting spoilers.
+  - ### [Extension Link](https://chrome.google.com/webstore/detail/crunchyroll-thumbnail-rem/ieeahbkdhednhjpcjdobahgabdndjmcn)
 
 - ## More to come
